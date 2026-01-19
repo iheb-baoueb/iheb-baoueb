@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+🚀;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0D47A1&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+🚀;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Technologies" />
 </p>
 
 ---
