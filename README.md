@@ -3,13 +3,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=250&section=header&text=Iheb%20Baoueb&fontSize=70&fontColor=ffffff" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Engineer%20🚀-0D47A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20%26%20AI%20Engineer%20🚀-0D47A1?style=for-the-badge" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Stack-Java%20--%20Spring%20Boot%20--%20Angular-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Java%20|%20Spring%20Boot%20|%20Angular-1565C0?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Clean%20Code%20%26%20Scalable%20Systems-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-New%20Technologies-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Expertise-Deep%20Learning%20%26%20MLOps-00BFFF?style=flat-square" />
 </p>
 
 ---
