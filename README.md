@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-Java%20|%20Spring%20Boot%20|%20Angular-1565C0?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Clean%20Code%20%26%20Scalable%20Systems-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Expertise-Machine%20Learning%20%26%20Generative%20AI-#008FBF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Expertise-Machine%20Learning%20%26%20Generative%20AI-00BFFF?style=flat-square" />
 </p>
 
 ---
