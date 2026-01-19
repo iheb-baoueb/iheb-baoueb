@@ -1,5 +1,3 @@
-# ✨ Iheb Baoueb – Software Engineer ✨
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=✨+Iheb+Baoueb+✨&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software+Engineer+%7C+Fullstack+Java+%26+Angular&descAlignY=75&descAlign=60" />
 </p>
@@ -41,7 +39,6 @@ profile:
       <br><br>
       ⚙️ REST API development <br>
       🔄 Frontend–Backend integration <br>
-      🔑 Role-based access management <br>
       🐳 Dockerized environments <br>
       🚀 Agile / SCRUM workflow
     </td>
