@@ -12,10 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Iheb Baoueb**, a **Software Engineer** with hands-on experience in  
-**full-stack web development** and **AI-based solutions**.  
-I’m passionate about **clean code**, **problem solving**, and building  
-**scalable, secure applications**.
+Hi! I'm **Iheb Baoueb**, a **Software Engineer** with hands-on experience in  **full-stack web development** and **AI-based solutions**. I’m passionate about **clean code** **problem solving**, and building **scalable, secure applications**.
 
 ```yaml
 profile:
@@ -28,27 +25,27 @@ profile:
 
 ## 🧠 Engineering Mindset
 
-<table> 
-<tr> 
-<td width="50%">
-<strong>🔹 Core Values</strong>
-<br><br>
-✅ Clean & maintainable code <br><br>
-🔐 Security by design <br><br>
-🔄 Continuous improvement <br><br>
-🤝 Teamwork & collaboration <br><br>
-📈 Performance & scalability
-</td> 
-<td width="50%">
-<strong>🔹 Daily Practices</strong>
-<br><br>
-⚙️ REST API development <br><br>
-🔄 Frontend–Backend integration <br><br>
-🔑 Role-based access management <br><br>
-🐳 Dockerized environments <br><br>
-🚀 Agile / SCRUM workflow
-</td> 
-</tr> 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔹 Core Values</strong>
+      <br><br>
+      ✅ Clean & maintainable code <br>
+      🔐 Security by design <br>
+      🔄 Continuous improvement <br>
+      🤝 Teamwork & collaboration <br>
+      📈 Performance & scalability
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔹 Daily Practices</strong>
+      <br><br>
+      ⚙️ REST API development <br>
+      🔄 Frontend–Backend integration <br>
+      🔑 Role-based access management <br>
+      🐳 Dockerized environments <br>
+      🚀 Agile / SCRUM workflow
+    </td>
+  </tr>
 </table>
 
 ---
@@ -81,21 +78,14 @@ profile:
 
 ### 🏢 Fullstack / AI Engineer – Sindibad Group
 **📍 Sousse, Tunisia | 2025 – Present**
-* AI-based real estate analysis & recommendation (Client: Dubai)
-* Design & training of ML models
-* Optimization of AI pipelines
-* **Tech:** Python, Flask, Pandas, Scikit-learn, PostgreSQL
-
-### 🏢 Fullstack Engineer – Leoni (Serbia & Tunisia)
-* Absence & meeting management platform
-* Automated email notifications
-* Role-based access & hierarchical filters
-* Dockerized environments
-* **Tech:** Java, Spring Boot, Angular, Docker, RabbitMQ
+* **Fullstack Development:** Engineered robust web applications using **Spring Boot** and **Angular**, focusing on scalable architectures and seamless user experiences.
+* **AI Solutions:** Designed and implemented AI-driven real estate analysis and recommendation systems for the Dubai market.
+* **Tech:** Java, Spring Boot, Angular, Python, Flask, Scikit-learn, PostgreSQL
 
 ### 🏢 End-of-Studies Internship – VERMEG
-* Team management & HR optimization platform
-* User profile management
+**📍 Tunis, Tunisia**
+* Developed a team management and HR optimization platform focusing on user profile management.
+* Implemented secure backend services and dynamic frontend interfaces for HR digitalization.
 * **Tech:** Spring Boot, Angular, SQL Server, Python
 
 ---
@@ -104,9 +94,6 @@ profile:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=IhebBaoueb&show_icons=true&theme=tokyonight" /> 
 </p> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebBaoueb&theme=tokyonight" /> 
-</p>
 
 ---
 
