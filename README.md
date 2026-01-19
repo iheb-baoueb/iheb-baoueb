@@ -1,12 +1,13 @@
 # ✨ Iheb Baoueb – Software Engineer ✨
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Iheb+Baoueb&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Software+Engineer+%7C+Fullstack+Java+%26+Angular&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=300&section=header&text=Iheb+Baoueb&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Software+Engineer+%7C+Fullstack+Java+%26+Angular&descAlignY=75" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+🚀;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1565C0&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+🚀;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Technologies" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -112,5 +113,5 @@ profile:
 </p> 
 
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=120&section=footer" /> 
 </p>
