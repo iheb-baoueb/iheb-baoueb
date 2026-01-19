@@ -5,106 +5,96 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+🚀;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-Hi! I'm **Iheb Baoueb**, a **Software Engineer** with hands-on experience in **full-stack web development** and **AI-based solutions**.  
-I’m passionate about **clean code**, **problem solving**, and building **scalable, secure applications**.
+Salut ! Je suis **Iheb Baoueb**, un ingénieur logiciel passionné par le développement **Fullstack** et les solutions basées sur l'**Intelligence Artificielle**. Mon expertise se concentre sur la création d'applications robustes, scalables et centrées sur l'utilisateur.
 
 ```yaml
+# Informations rapides
 profile:
-  name: "Iheb Baoueb"
-  role: "Software / Fullstack Engineer"
+  role: "Fullstack & AI Engineer"
   location: "Tunis, Tunisia 🇹🇳"
-  experience: "1+ year"
   mindset: "Learn – Build – Improve – Repeat"
-🧠 Engineering Mindset
-<table> <tr> <td width="50%">
-🔹 Core Values
+  focus: ["Microservices", "AI Pipelines", "Clean Architecture"]
+
+  🧠 Engineering Mindset
+<table align="center"> <tr> <td width="50%"> <strong>🔹 Valeurs Fondamentales</strong>
+
+
 
 ✅ Clean & maintainable code
 
+
 🔐 Security by design
+
 
 🔄 Continuous improvement
 
-🤝 Teamwork & collaboration
 
-📈 Performance & scalability
+📈 Performance & scalability </td> <td width="50%"> <strong>🔹 Pratiques Quotidiennes</strong>
 
-</td> <td width="50%">
-🔹 Daily Practices
 
-REST API development
 
-Frontend–Backend integration
+⚙️ Architecture REST & Microservices
 
-Role-based access management
 
-Dockerized environments
+🔑 Role-based access management (RBAC)
 
-Agile / SCRUM workflow
 
-</td> </tr> </table>
-🛠️ Tech Stack
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,js,ts,csharp" /> </p>
-⚙️ Frameworks
-<p> <img src="https://skillicons.dev/icons?i=spring,angular,react,flask,django,dotnet,laravel" /> </p>
-🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> </p>
-🚀 DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman" /> </p>
-🧪 AI & Data Skills
-<p> <img src="https://skillicons.dev/icons?i=python,tensorflow" /> </p>
+🐳 Dockerized environments
 
-Machine Learning & Predictive Models
 
-Data Analysis (Pandas, NumPy)
+🚀 Agile / SCRUM workflow </td> </tr> </table>
 
-Scikit-learn, XGBoost
+🛠️ Stack Technique
+💻 Langages & Frameworks
+<p align="left"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,angular,ts,js,python,flask,django,dotnet,cs" /> </p>
 
-AI-based recommendation systems
+🗄️ Databases & Cloud
+<p align="left"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpostgres,mysql,mongodb,docker,kubernetes,aws,linux" /> </p>
 
-💼 Professional Experience
+🧪 AI & Data Science
+<p align="left"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,py,pandas" /> </p>
+
+💼 Expériences Professionnelles
 🏢 Fullstack / AI Engineer – Sindibad Group
+2025 – Présent | Sousse, Tunisie
 
-📍 Sousse, Tunisia | 2025 – Present
+Projet : Analyse immobilière basée sur l'IA (Marché de Dubai).
 
-AI-based real estate analysis & recommendation (Client: Dubai)
+Impact : Conception et entraînement de modèles de recommandation prédictifs.
 
-Design & training of ML models
+Stack : Python, Flask, Scikit-learn, PostgreSQL.
 
-Optimization of AI pipelines
+🏢 Fullstack Engineer – Leoni
+Tunisie & Serbie
 
-Tech: Python, Flask, Pandas, Scikit-learn, PostgreSQL
+Développement d'une plateforme de gestion des réunions et absences.
 
-🏢 Fullstack Engineer – Leoni (Serbia & Tunisia)
+Mise en place de notifications automatisées et gestion des accès hiérarchiques.
 
-Absence & meeting management platform
+Stack : Java, Spring Boot, Angular, Docker, RabbitMQ.
 
-Automated email notifications
+🏢 Stagiaire PFE – VERMEG
+Optimisation des processus RH via une plateforme de gestion d'équipe.
 
-Role-based access & hierarchical filters
+Stack : Spring Boot, Angular, SQL Server.
 
-Dockerized environments
+📊 Statistiques GitHub
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DIhebBaoueb%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" alt="Iheb's Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebBaoueb&theme=tokyonight" alt="GitHub Streak" /> </p>
 
-Tech: Java, Spring Boot, Angular, Docker, RabbitMQ
+<p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DIhebBaoueb%26layout%3Dcompact%26theme%3Dtokyonight%26hide%3Dhtml,css" alt="Top Langs" /> </p>
 
-🏢 End-of-Studies Internship – VERMEG
-
-Team management & HR optimization platform
-
-User profile management
-
-Tech: Spring Boot, Angular, SQL Server, Python
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IhebBaoueb&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebBaoueb&theme=tokyonight" /> </p>
-🌐 Let's Connect
+🌐 Restons Connectés
 <p align="center"> <a href="https://www.linkedin.com/in/iheb-baoueb-397b931b5/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ihebbaoueb015@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"> <i>“Building reliable systems, one line of code at a time.”</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=IhebBaoueb&label=Profile+Views&color=0E75B6&style=for-the-badge" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" /> </p> ```
+
+<p align="center"> <i>“Construire des systèmes fiables, une ligne de code à la fois.”</i> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IhebBaoueb&label=Profile+Views&color=0E75B6&style=for-the-badge" /> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" /> </p>
