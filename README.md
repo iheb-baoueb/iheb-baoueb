@@ -4,7 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=250&section=header&text=Iheb%20Baoueb&fontSize=70&fontColor=ffffff" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0D47A1&center=true&vCenter=true&width=650&lines=Fullstack+Engineer+🚀;Java+--+Spring+Boot+--+Angular;Clean+Code+and+Scalable+Systems;Always+Learning+New+Technologies" />
+  <img src="https://img.shields.io/badge/Role-Fullstack_Engineer_🚀-0D47A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Java_|_Spring_Boot_|_Angular-0D47A1?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Clean_Code_&_Scalable_Systems-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always_Learning-1565C0?style=for-the-badge" />
 </p>
 
 ---
