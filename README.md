@@ -1,7 +1,7 @@
 # ✨ Iheb Baoueb – Software Engineer ✨
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=300&section=header&text=Iheb+Baoueb&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Software+Engineer+%7C+Fullstack+Java+%26+Angular&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=250&section=header&text=Iheb%20Baoueb&fontSize=70&fontColor=ffffff" />
 </p>
 
 <p align="center">
